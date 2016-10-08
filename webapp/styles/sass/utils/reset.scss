@@ -1,0 +1,11 @@
+*{
+  padding:0px; margin:0px;
+  font-family: brandon;
+}
+div, header, footer, section{
+  position: relative;
+}
+a{
+  text-decoration: none;
+}
+button:focus, input:focus {outline:0;}
